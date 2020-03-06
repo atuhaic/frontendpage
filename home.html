@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="home.css">
+	<title>tina page</title>
+</head>
+<body>
+	<div class="left"><a href="chris.html">GRADUATES OF VARIOUS COURSES</div></a>
+<div class="pic"><img src="ime.jpg"></div>
+
+<div class="right">
+	
+<div class="marquee"></div>		
+<marquee behavior="scroll" direction="left">CLASS OF 2021 IT GRADUATES</marquee>
+<marquee behavior="alternate">
+
+</marquee>
+
+<div>
+<img src="mee.jpg" id="img" width="150" height="150" >
+</div>
+
+</br>
+
+<button id="show">show</button><button id="hide">hide</button>
+</div>
+
+<script type="text/javascript">
+let image=document.getElementById('img');
+let see=document.getElementById('show');
+let hid=document.getElementById('hide');
+
+see.onmouseout=function(){
+	image.style.display="block"
+}
+
+hid.onmouseover=function(){
+	image.style.display="none"
+}
+
+</script>
+</body>
+</html>

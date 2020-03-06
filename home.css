@@ -1,0 +1,40 @@
+
+
+body{
+	background-color: black;
+}
+.me{
+
+	font-size: 15px;
+	font-style: italic;
+	color: tomato;
+	marker-start:0px 
+
+
+}
+.pic{
+	display: flex;
+	height: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+
+
+
+}
+.marquee{
+color: green;
+
+}
+.right{
+	background-color: chocolate;
+	padding-top: 10px;
+	
+
+}
+.left{
+	font-size: 25px;
+	text-align: center;
+	background-color:maroon;
+	border-radius: 400px;
+}

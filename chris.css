@@ -1,0 +1,146 @@
+body{
+  background: black;
+}
+
+.main{
+    background-color:rgb(15, 2, 2);
+    
+    display:flex;
+    justify-content: space-between;
+}
+
+h1{
+    color: rgb(233, 225, 223);
+font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+    
+}
+
+ ol{
+        display: flex;
+        list-style-type: none;
+    }
+li{
+            padding-right: 10px;
+            color: cornsilk;
+        }
+ 
+            
+            .rightdiv{
+                display: flex;
+                padding-top: 20px;
+                padding-bottom: 0px;
+            }
+.leftdiv{
+    display: flex;
+    padding-right: 30px;
+    padding-left:20px ;
+}
+button{
+    border-radius: 100px;
+    background-color: rgb(47, 67, 245);
+}
+.main2{
+    background-color:orangered;
+    padding-bottom: 20px;
+    
+}
+p{
+  color: red;
+  padding-left: 100px;
+padding-bottom: 500px;
+}
+  .ddd{
+       color: floralwhite;
+       font-style: italic;
+   }
+  .rrr{
+      background-color: royalblue;
+       width: 300px;
+   }
+   form{
+       color: floralwhite;
+       background-color: orangered;
+       padding-left: 400px;
+       height: 200px;
+       padding-top: 80px
+   }
+   .btn{
+       width: 300px;
+       border-radius: 10px;
+   }
+   .main3{
+       background-color:orange;
+      
+       color: white;
+       font-size: 18px;
+       padding-bottom: 100px;
+       height: 0px;
+    
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+   }
+ol{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+li{
+    padding-right: 20px;
+
+}
+.gret{
+    display: flex;
+}
+.main4{
+    padding-top: 0px;
+    background-color: black;
+    display: flex;
+    height: 150px;
+width: 100%;
+background-repeat: no-repeat;
+margin: 0px;
+
+}
+.icon1{
+    padding-top: 0px;
+    
+    width: 5px;
+    height: 5px;
+    padding-left: 100px;
+    padding-top: 0px;
+ 
+}
+.icon2{
+    padding-left: 100px;
+     padding-top: 0px;
+}
+.icon3{
+    padding-left: 2px;
+     padding-top: 0px;
+}
+.letters{
+    background-color: black;
+    
+}
+.front{
+color: cornsilk;
+font-size: 20px;
+padding-top: 13px;
+}
+.masta{
+    color: red;
+    font-size: 35px;
+    font-style: italic;
+    font-style: bold;
+}
+.app{
+
+  padding-left: 50px;
+
+}
+
+    
+

@@ -1,0 +1,78 @@
+body{
+    background:orangered;
+
+}
+.main{
+    color: brown
+    display: flex;
+    justify-content: space-between;
+
+}
+.first{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 0px;
+
+}
+.front{
+    color: white;
+    padding-top: 30px;
+    font-size: 28px;
+    font-style: italic;
+}
+.master{
+    color: saddlebrown;
+    font-style: normal;
+    font-size: 35px;
+
+}
+.third{
+    background: black;
+    padding-left: 400px;
+    padding-top: 100px;
+    height:300px;
+    color: white;
+    border-style: groove;
+
+}
+ol{
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+
+
+}
+li{
+    padding-right: 20px;
+
+}
+.second{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 20px;
+
+}
+button{
+    border-radius: 100px;
+}
+
+
+p{
+    color: aquamarine;
+    padding-bottom: 500px;
+    padding-left: 100PX;
+}
+.app{
+    padding-top: 0px;
+    padding-left: 0px;
+    
+
+
+}
+.cate{
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+
+
+}
